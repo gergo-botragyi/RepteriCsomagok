@@ -1,0 +1,56 @@
+[
+{
+  "directory": "D:/suli/Airport/build",
+  "command": "C:\\MinGW\\bin\\c++.exe -DMEMTRACE  -g -Wall -Werror -o CMakeFiles\\airport.dir\\belt.cpp.obj -c D:\\suli\\Airport\\belt.cpp",
+  "file": "D:/suli/Airport/belt.cpp",
+  "output": "CMakeFiles/airport.dir/belt.cpp.obj"
+},
+{
+  "directory": "D:/suli/Airport/build",
+  "command": "C:\\MinGW\\bin\\c++.exe -DMEMTRACE  -g -Wall -Werror -o CMakeFiles\\airport.dir\\bfs.cpp.obj -c D:\\suli\\Airport\\bfs.cpp",
+  "file": "D:/suli/Airport/bfs.cpp",
+  "output": "CMakeFiles/airport.dir/bfs.cpp.obj"
+},
+{
+  "directory": "D:/suli/Airport/build",
+  "command": "C:\\MinGW\\bin\\c++.exe -DMEMTRACE  -g -Wall -Werror -o CMakeFiles\\airport.dir\\controlcenter.cpp.obj -c D:\\suli\\Airport\\controlcenter.cpp",
+  "file": "D:/suli/Airport/controlcenter.cpp",
+  "output": "CMakeFiles/airport.dir/controlcenter.cpp.obj"
+},
+{
+  "directory": "D:/suli/Airport/build",
+  "command": "C:\\MinGW\\bin\\c++.exe -DMEMTRACE  -g -Wall -Werror -o CMakeFiles\\airport.dir\\junction.cpp.obj -c D:\\suli\\Airport\\junction.cpp",
+  "file": "D:/suli/Airport/junction.cpp",
+  "output": "CMakeFiles/airport.dir/junction.cpp.obj"
+},
+{
+  "directory": "D:/suli/Airport/build",
+  "command": "C:\\MinGW\\bin\\c++.exe -DMEMTRACE  -g -Wall -Werror -o CMakeFiles\\airport.dir\\list.cpp.obj -c D:\\suli\\Airport\\list.cpp",
+  "file": "D:/suli/Airport/list.cpp",
+  "output": "CMakeFiles/airport.dir/list.cpp.obj"
+},
+{
+  "directory": "D:/suli/Airport/build",
+  "command": "C:\\MinGW\\bin\\c++.exe -DMEMTRACE  -g -Wall -Werror -o CMakeFiles\\airport.dir\\main.cpp.obj -c D:\\suli\\Airport\\main.cpp",
+  "file": "D:/suli/Airport/main.cpp",
+  "output": "CMakeFiles/airport.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/suli/Airport/build",
+  "command": "C:\\MinGW\\bin\\c++.exe -DMEMTRACE  -g -Wall -Werror -o CMakeFiles\\airport.dir\\memtrace.cpp.obj -c D:\\suli\\Airport\\memtrace.cpp",
+  "file": "D:/suli/Airport/memtrace.cpp",
+  "output": "CMakeFiles/airport.dir/memtrace.cpp.obj"
+},
+{
+  "directory": "D:/suli/Airport/build",
+  "command": "C:\\MinGW\\bin\\c++.exe -DMEMTRACE  -g -Wall -Werror -o CMakeFiles\\airport.dir\\package.cpp.obj -c D:\\suli\\Airport\\package.cpp",
+  "file": "D:/suli/Airport/package.cpp",
+  "output": "CMakeFiles/airport.dir/package.cpp.obj"
+},
+{
+  "directory": "D:/suli/Airport/build",
+  "command": "C:\\MinGW\\bin\\c++.exe -DMEMTRACE  -g -Wall -Werror -o CMakeFiles\\airport.dir\\path.cpp.obj -c D:\\suli\\Airport\\path.cpp",
+  "file": "D:/suli/Airport/path.cpp",
+  "output": "CMakeFiles/airport.dir/path.cpp.obj"
+}
+]

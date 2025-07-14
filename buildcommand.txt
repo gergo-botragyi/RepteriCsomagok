@@ -1,0 +1,1 @@
+g++ -Wall -Werror -D MEMTRACE -D MAIN belt.cpp belt.h bfs.cpp bfs.h bfsData.h controlcenter.cpp controlcenter.h gtest_lite.h io.cpp io.h junction.cpp junction.h list.cpp list.h main.cpp main.h memtrace.cpp memtrace.h package.cpp package.h path.cpp path.h -o airportSim

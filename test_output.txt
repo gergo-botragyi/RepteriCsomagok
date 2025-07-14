@@ -1,0 +1,13 @@
+Packages at junction: A
+	3 C A
+	Packages at belt: 0, going from: A, to: B
+
+Packages at junction: B
+	1 A B
+	Packages at belt: 1, going from: B, to: C
+
+Packages at junction: C
+	2 B C
+	Packages at belt: 2, going from: C, to: A
+
+-----------------------------------------------------------
